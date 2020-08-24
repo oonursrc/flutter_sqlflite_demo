@@ -1,6 +1,7 @@
 # flutter_sqlflite_demo
 
 A new Flutter application.
+This application includes codes to learn sqlflite
 
 ## Getting Started
 
